@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="untitled" />
+        <module name="listaDuplamenteEncadeada" />
+        <module name="oOAula04.1" />
+        <module name="arvoreBinaria" />
+        <module name="oOAula04.2" />
+        <module name="equalsHashCode (4)" />
+        <module name="listaCircular" />
+        <module name="equalsHashCode (1)" />
+        <module name="equalsHashCode" />
+        <module name="equalsHashCode (3)" />
+        <module name="equalsHashCode (2)" />
+        <module name="desafioFibonacciFacil" />
+        <module name="desafioSomaDeHComNTermos" />
+        <module name="listaEncadeada" />
+        <module name="imprimindoPositivosEMedia" />
+        <module name="fila" />
+        <module name="pilha" />
+        <module name="desafioDragao" />
+        <module name="desafioFabricaDeCarros" />
+        <module name="oOAula03.1" />
+        <module name="exercicioTemperatura" />
+        <module name="map" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arvoreBinaria" target="19" />
+      <module name="desafioDragao" target="19" />
+      <module name="desafioFabricaDeCarros" target="19" />
+      <module name="desafioFibonacciFacil" target="19" />
+      <module name="desafioSomaDeHComNTermos" target="19" />
+      <module name="equalsHashCode" target="19" />
+      <module name="equalsHashCode (1)" target="19" />
+      <module name="equalsHashCode (2)" target="19" />
+      <module name="equalsHashCode (3)" target="19" />
+      <module name="equalsHashCode (4)" target="19" />
+      <module name="exercicioTemperatura" target="19" />
+      <module name="fila" target="19" />
+      <module name="imprimindoPositivosEMedia" target="19" />
+      <module name="listaCircular" target="19" />
+      <module name="listaDuplamenteEncadeada" target="19" />
+      <module name="listaEncadeada" target="19" />
+      <module name="map" target="19" />
+      <module name="oOAula03.1" target="19" />
+      <module name="oOAula04.1" target="19" />
+      <module name="oOAula04.2" target="19" />
+      <module name="pilha" target="19" />
+      <module name="untitled" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

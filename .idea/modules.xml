@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arvoreBinaria/arvoreBinaria.iml" filepath="$PROJECT_DIR$/arvoreBinaria/arvoreBinaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafioDragao/desafioDragao.iml" filepath="$PROJECT_DIR$/desafioDragao/desafioDragao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafioFabricaDeCarros/desafioFabricaDeCarros.iml" filepath="$PROJECT_DIR$/desafioFabricaDeCarros/desafioFabricaDeCarros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafioFibonacciFacil/desafioFibonacciFacil.iml" filepath="$PROJECT_DIR$/desafioFibonacciFacil/desafioFibonacciFacil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafioSomaDeHComNTermos/desafioSomaDeHComNTermos.iml" filepath="$PROJECT_DIR$/desafioSomaDeHComNTermos/desafioSomaDeHComNTermos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/equalsHashCode.iml" filepath="$PROJECT_DIR$/set/equalsHashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/equalsHashCode (1).iml" filepath="$PROJECT_DIR$/list/equalsHashCode (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/equalsHashCode (2).iml" filepath="$PROJECT_DIR$/queue/equalsHashCode (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/equalsHashCode (3).iml" filepath="$PROJECT_DIR$/stack/equalsHashCode (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/equalsHashCode/equalsHashCode (4).iml" filepath="$PROJECT_DIR$/equalsHashCode/equalsHashCode (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioTemperatura/exercicioTemperatura.iml" filepath="$PROJECT_DIR$/exercicioTemperatura/exercicioTemperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fila/fila.iml" filepath="$PROJECT_DIR$/fila/fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imprimindoPositivosEMedia/imprimindoPositivosEMedia.iml" filepath="$PROJECT_DIR$/imprimindoPositivosEMedia/imprimindoPositivosEMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/intelij-Workspace-Dio.iml" filepath="$PROJECT_DIR$/.idea/intelij-Workspace-Dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaCircular/listaCircular.iml" filepath="$PROJECT_DIR$/listaCircular/listaCircular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaDuplamenteEncadeada/listaDuplamenteEncadeada.iml" filepath="$PROJECT_DIR$/listaDuplamenteEncadeada/listaDuplamenteEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaEncadeada/listaEncadeada.iml" filepath="$PROJECT_DIR$/listaEncadeada/listaEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oOAula03.1/oOAula03.1.iml" filepath="$PROJECT_DIR$/oOAula03.1/oOAula03.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oOAula04.1/oOAula04.1.iml" filepath="$PROJECT_DIR$/oOAula04.1/oOAula04.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oOAula04.2/oOAula04.2.iml" filepath="$PROJECT_DIR$/oOAula04.2/oOAula04.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilha/pilha.iml" filepath="$PROJECT_DIR$/pilha/pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

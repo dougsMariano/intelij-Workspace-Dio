@@ -1,0 +1,19 @@
+# Project exclude paths
+/arvoreBinaria/target/
+/desafioFabricaDeCarros/target/
+/desafioSomaDeHComNTermos/target/
+/equalsHashCode/target/
+/exercicioTemperatura/target/
+/fila/target/
+/imprimindoPositivosEMedia/target/
+/list/target/
+/listaCircular/target/
+/listaDuplamenteEncadeada/target/
+/listaEncadeada/target/
+/map/target/
+/oOAula03.1/target/
+/oOAula04.2/target/
+/queue/target/
+/set/target/
+/stack/target/
+/untitled/target/
