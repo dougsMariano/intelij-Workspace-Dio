@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/queue/equalsHashCode (2).iml" filepath="$PROJECT_DIR$/queue/equalsHashCode (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/equalsHashCode (3).iml" filepath="$PROJECT_DIR$/stack/equalsHashCode (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/equalsHashCode/equalsHashCode (4).iml" filepath="$PROJECT_DIR$/equalsHashCode/equalsHashCode (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/exemploList.iml" filepath="$PROJECT_DIR$/untitled/exemploList.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicioTemperatura/exercicioTemperatura.iml" filepath="$PROJECT_DIR$/exercicioTemperatura/exercicioTemperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/fila/fila.iml" filepath="$PROJECT_DIR$/fila/fila.iml" />
       <module fileurl="file://$PROJECT_DIR$/imprimindoPositivosEMedia/imprimindoPositivosEMedia.iml" filepath="$PROJECT_DIR$/imprimindoPositivosEMedia/imprimindoPositivosEMedia.iml" />
@@ -24,7 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/oOAula04.1/oOAula04.1.iml" filepath="$PROJECT_DIR$/oOAula04.1/oOAula04.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/oOAula04.2/oOAula04.2.iml" filepath="$PROJECT_DIR$/oOAula04.2/oOAula04.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pilha/pilha.iml" filepath="$PROJECT_DIR$/pilha/pilha.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>

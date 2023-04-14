@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="untitled" />
         <module name="listaDuplamenteEncadeada" />
         <module name="oOAula04.1" />
         <module name="arvoreBinaria" />
@@ -26,6 +25,7 @@
         <module name="desafioDragao" />
         <module name="desafioFabricaDeCarros" />
         <module name="oOAula03.1" />
+        <module name="exemploList" />
         <module name="exercicioTemperatura" />
         <module name="map" />
       </profile>
@@ -41,6 +41,7 @@
       <module name="equalsHashCode (2)" target="19" />
       <module name="equalsHashCode (3)" target="19" />
       <module name="equalsHashCode (4)" target="19" />
+      <module name="exemploList" target="19" />
       <module name="exercicioTemperatura" target="19" />
       <module name="fila" target="19" />
       <module name="imprimindoPositivosEMedia" target="19" />
@@ -52,7 +53,6 @@
       <module name="oOAula04.1" target="19" />
       <module name="oOAula04.2" target="19" />
       <module name="pilha" target="19" />
-      <module name="untitled" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

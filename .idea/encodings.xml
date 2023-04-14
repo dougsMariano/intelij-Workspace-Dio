@@ -13,6 +13,8 @@
     <file url="file://$PROJECT_DIR$/desafioSomaDeHComNTermos/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equalsHashCode/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equalsHashCode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exemploList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exemploList/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercicioTemperatura/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercicioTemperatura/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fila/src/main/java" charset="UTF-8" />
@@ -43,7 +45,5 @@
     <file url="file://$PROJECT_DIR$/set/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stack/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stack/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/untitled/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/untitled/src/main/resources" charset="UTF-8" />
   </component>
 </project>
