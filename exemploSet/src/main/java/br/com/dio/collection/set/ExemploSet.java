@@ -1,6 +1,5 @@
 package br.com.dio.collection.set;
 
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class ExemploSet {
